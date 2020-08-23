@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "id": "6",
+      "name": "Hester Abshire",
+      "avatar": "/images/meo2.jpg",
+      "price": "937.00",
+      "quantity": 66
+    },
+    {
+      "id": "7",
+      "name": "Afton Howe",
+      "avatar": "/images/meo3.jpg",
+      "price": "330.00",
+      "quantity": 76
+    },
+    {
+      "id": "8",
+      "name": "Lilyan Thiel",
+      "avatar": "/images/cho1.jpg",
+      "price": "551.00",
+      "quantity": 5
+    },
+    {
+      "id": "9",
+      "name": "Karl Heidenreich",
+      "avatar": "/images/cho2.jpg",
+      "price": "64.00",
+      "quantity": 53
+    },
+    {
+      "name": "Aboo",
+      "avatar": "/images/cho4.jpg",
+      "price": "123",
+      "quantity": "12",
+      "id": "h7QMQ5E"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "quan.ho",
+      "avatar": "/images/cho4.JPG",
+      "email": "quanho2000@gmail.com",
+      "phone_number": "0931378560",
+      "address": "Quang Tri",
+      "password": "tongquan04"
+    }
+  ]
+}
